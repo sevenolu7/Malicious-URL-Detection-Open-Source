@@ -35,4 +35,5 @@ Link related issues or papers if possible.
    ```
 
 Then go to the original repo and click "Compare & pull request".
+
 6. Finally, please update CHANGELOG.md with your changes following the existing format.
